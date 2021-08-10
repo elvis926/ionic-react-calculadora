@@ -1,0 +1,32 @@
+.data {
+    width: 255px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: right;
+    padding: 20px 15px;
+    border-radius: 5px;
+    background: #87c5ba;
+    color: #FFF;
+}
+
+.data-buttons {
+    width: 295px;
+    margin: 10px auto;    
+}
+
+.button1 {
+    height: 60px;
+    width: 60px;
+}
+
+.button2 {
+    height: 60px;
+    width: 125px;
+}
+
+.button3 {
+    height: 60px;
+    width: 185px;
+}
+
